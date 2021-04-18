@@ -1,1 +1,2 @@
 # UDA-DPTML
+The code is for UDA-DPTML which core idea is based on the inherent distribution of chest X-ray images, using deep quadratic clustering to fully explore accurate public samples and reliable private samples, and further combine metric learning with domain adaptation to accurately expand the distance between the distribution of private and public,classes. Then iteratively tune the universal domain adaption model tommake it more robust.
